@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GoTrieop/static/css/main.def93589.css",
+    "main.js": "/GoTrieop/static/js/main.80abec8f.js",
+    "static/media/feedback_image.png": "/GoTrieop/static/media/feedback_image.8c171ea95dea45f01357.png",
+    "static/media/bg_image.png": "/GoTrieop/static/media/bg_image.bbb37b99da1e63921cd5.png",
+    "static/media/feedback_avatar.png": "/GoTrieop/static/media/feedback_avatar.896370123def366a6c79.png",
+    "static/media/Logo.svg": "/GoTrieop/static/media/Logo.90cef9adff84115e26cd1b6fb42e5885.svg",
+    "index.html": "/GoTrieop/index.html",
+    "static/media/rating_star.svg": "/GoTrieop/static/media/rating_star.d19b0766e34731db8d270c12a5af622f.svg",
+    "static/media/rating_star_color.svg": "/GoTrieop/static/media/rating_star_color.664da98bcf2d5be9f80c81a3bd400810.svg",
+    "main.def93589.css.map": "/GoTrieop/static/css/main.def93589.css.map",
+    "main.80abec8f.js.map": "/GoTrieop/static/js/main.80abec8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def93589.css",
+    "static/js/main.80abec8f.js"
+  ]
+}
